@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667569499 source:d:\sara\iti9\clabs\multilinewithhighmenu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
